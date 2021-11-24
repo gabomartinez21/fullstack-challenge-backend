@@ -8,6 +8,14 @@ Este proyecto tiene como objetivo demostrar las habilidades en NodeJS y MySQL
 npm install
 ```
 
+.env: example
+```
+HOTS=HOST
+USER=USER
+PASSWORD=PASSWORD
+DATABASE=DATABASE
+```
+
 ## Usage
 
 Listar usuarios
